@@ -1,8 +1,8 @@
 # Hi there :wave:
 My name is Lukasz Suchan.
-I'm currently studying
+Currently working with team *Project-Maze"*
 
 ## About me
 Computer Science :computer:
-Swimming :diving_mask:
+Swimming :swimmer:
 Travelling :airplane:
