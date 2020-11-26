@@ -8,5 +8,5 @@
 * Swimming :swimmer:
 * Travelling :airplane:
 
-## Intresting articles:
+## Intresting articles
 * [Bringing-Old-Photos-Back-to-Life](https://github.com/LukaszSuchan/Bringing-Old-Photos-Back-to-Life/settings)
