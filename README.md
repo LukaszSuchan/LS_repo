@@ -9,4 +9,4 @@
 * Travelling :airplane:
 
 ## Intresting articles
-* [Bringing-Old-Photos-Back-to-Life](https://github.com/LukaszSuchan/Bringing-Old-Photos-Back-to-Life/settings)
+* [Bringing-Old-Photos-Back-to-Life](https://github.com/LukaszSuchan/Bringing-Old-Photos-Back-to-Life)
