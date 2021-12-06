@@ -7,7 +7,7 @@
 * Computer Science :computer:
 * Swimming :swimmer:
 * Travelling :airplane:
-* F1 fan
+* F1 fan 🏎️
 
 ## Intresting articles
 * [Bringing-Old-Photos-Back-to-Life](https://github.com/LukaszSuchan/Bringing-Old-Photos-Back-to-Life)
