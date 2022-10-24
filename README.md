@@ -6,6 +6,8 @@
 ## About me
 * Computer Science :computer:
 * Swimming :swimmer:
+* Cycling :bicyclist:
+* Running :runner:
 * Travelling :airplane:
 * F1 fan 🏎️
 
