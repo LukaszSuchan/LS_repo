@@ -1,6 +1,6 @@
 # Hi there :wave:
 - My name is Lukasz Suchan.
-- Currently working with team *"Profi Sales System"*
+- Currently working with [@PiotrSzczachor](https://github.com/PiotrSzczachor)
 - Check out my website https://lukaszsuchan.github.io/
 
 ## About me
